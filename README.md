@@ -14,5 +14,6 @@ How to download / Use the agent
 2. Integrate it with your OpenAi API Keys
 3. Install the required modules
 4. Add the path to your resume
-5. Then run the code.
+5. Then run the code using your IDE (ensure you are connected to the internet).
+
 This will generate 5 top careers that align with your resume, the missing skills (if any), and recommend courses to take to bridge the skills gap
