@@ -7,3 +7,12 @@ AI Enhanced Career Path Advisor
 4. The agent then identifies the skills gap between the user and the listed jobs, and prints that out on the console
 5. The agent then recommends the courses, if any, that the user should take enable him qualify for such the jobs
 6. Based on these recommendations, the user can then decide what career path best suits him/her and pursues it by taking the recommended courses.
+
+How to download / Use the agent
+
+1. To make use of our agent you can download it as a ZIP file or clone the repository using Git
+2. Integrate it with your OpenAi API Keys
+3. Install the required modules
+4. Add the path to your resume
+5. Then run the code.
+This will generate 5 top careers that align with your resume, the missing skills (if any), and recommend courses to take to bridge the skills gap
